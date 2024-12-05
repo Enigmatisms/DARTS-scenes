@@ -1,0 +1,23 @@
+ply
+format ascii 1.0
+comment Created by Blender 3.6.2 - www.blender.org
+element vertex 6
+property float x
+property float y
+property float z
+property float nx
+property float ny
+property float nz
+element face 4
+property list uchar uint vertex_indices
+end_header
+-1.653648 3.264197 -3.209751 1.000000 0.000000 0.000000
+-1.653648 3.510171 1.043221 1.000000 0.000000 0.000000
+-1.653648 3.264197 1.043221 1.000000 0.000000 0.000000
+-1.653648 3.109775 1.043221 1.000000 0.000000 0.000000
+-1.653648 3.109775 -3.209751 1.000000 0.000000 0.000000
+-1.653648 3.510171 -3.209751 1.000000 0.000000 0.000000
+3 0 1 2
+3 0 3 4
+3 5 1 0
+3 2 3 0

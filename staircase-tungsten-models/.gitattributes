@@ -1,0 +1,10 @@
+textures_tga/Fabric.tga filter=lfs diff=lfs merge=lfs -text
+textures_tga/Painting2.tga filter=lfs diff=lfs merge=lfs -text
+textures_tga/Painting3.tga filter=lfs diff=lfs merge=lfs -text
+textures_tga/WoodFloor.tga filter=lfs diff=lfs merge=lfs -text
+textures_tga/Wood.tga filter=lfs diff=lfs merge=lfs -text
+textures_tga/BrushedAluminium.tga filter=lfs diff=lfs merge=lfs -text
+textures_tga/Painting1.tga filter=lfs diff=lfs merge=lfs -text
+textures_tga/Wallpaper.tga filter=lfs diff=lfs merge=lfs -text
+textures_tga/WoodChair.tga filter=lfs diff=lfs merge=lfs -text
+textures_tga/WoodPanel.tga filter=lfs diff=lfs merge=lfs -text
